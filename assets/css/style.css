@@ -27,3 +27,8 @@
     margin: 0px;
     font-weight: bold;
 }
+.tableHead {
+    padding: 1px;
+    background-color: red;
+    color: white;
+}
